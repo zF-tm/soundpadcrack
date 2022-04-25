@@ -1,5 +1,14 @@
+<html>
+  <head>
+    <style>
+      img   {
+          margin-left:500px;
+      }
+
+
+
 <a href="https://discord.gg/U5m98BF3h2">
-  <img src="https://share.creavite.co/U2Zv48L97Ae3UJRc.png" width="50%" style="margin-left:500px">
+  <img src="https://share.creavite.co/U2Zv48L97Ae3UJRc.png" width="50%">
   </a>
 
 
