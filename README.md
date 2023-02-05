@@ -37,4 +37,4 @@ How To Use This Tool?
   # Badges
 [![MIT License](https://img.shields.io/badge/Our%20Discord-Join%20Our%20Discord%20server%20For%20a%20Cookie-orange?style=for-the-badge&logo=appveyor)](https://discord.gg/U5m98BF3h2)
   
-[![MIT License](https://img.shields.io/badge/Instagram-Follow%20Us%20On%20Instagram-orange?style=for-the-badge&logo=appveyor)](https://instagram.com/z3021th/)
+[![MIT License](https://img.shields.io/badge/Instagram-Follow%20Us%20On%20Instagram-orange?style=for-the-badge&logo=appveyor)](https://instagram.com/icc.ys/)
